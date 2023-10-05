@@ -46,7 +46,20 @@ https://drive.google.com/drive/folders/1YHMHyKHrMoThYxd0OMPu0aeR1H1KalQE?usp=dri
 ▶Results Link🔗: https://drive.google.com/drive/folders/1ZKRNQ8y_ZO0HKY4fszL7OHXobuugD3hb?usp=drive_link
 
 ## Tennis 🎾:
-▶Within the context of Tennis🎾, it identifies the following actions
+▶Within the context of Tennis🎾, it identifies the following actions:
+
+Serve
+
+Forehand Groundstroke 
+
+Backhand Groundstroke 
+
+Forehand Volley
+
+Backhand Volley
+
+Overhead Smash
+
 
 
 ▶Dataset Link🔗:
