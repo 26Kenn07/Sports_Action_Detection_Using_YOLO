@@ -1,6 +1,6 @@
 
 ## Sports Action Detection Using YOLOv8
-▶Using YOLOv8 we are detecting various actions in Cricket🏏, Volleyball🏐 and Badminton🏸.
+▶Using YOLOv8 we are detecting various actions in Cricket🏏, Volleyball🏐 and Tennis🎾.
 
 ▶Then convert the YouTube videos into frames using "Data Collection for YOLO.ipynb" and annotate them using labelling.
 
@@ -45,8 +45,8 @@ https://drive.google.com/drive/folders/1YHMHyKHrMoThYxd0OMPu0aeR1H1KalQE?usp=dri
 
 ▶Results Link🔗: https://drive.google.com/drive/folders/1ar7RxjM4xoX-1rIFBFXP0gJ1Y7L3zSXY?usp=drive_link
 
-## Badminton 🏸
-▶Within the context of Badminton🏸, it identifies the following actions
+## Tennis 🎾:
+▶Within the context of Tennis🎾, it identifies the following actions
 
 
 ▶Dataset Link🔗:
