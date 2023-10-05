@@ -25,7 +25,7 @@ Reverse Sweep
 
 ▶Dataset Link🔗: https://drive.google.com/drive/folders/1DucqRBdl2Xm1mhgcQtXlvT8xmWUi3C_I?usp=drive_link
 
-▶Results Link🔗: https://drive.google.com/drive/folders/1ar7RxjM4xoX-1rIFBFXP0gJ1Y7L3zSXY?usp=drive_link
+▶Results Link🔗: https://drive.google.com/drive/folders/1xjFjuVfX2X0kar2ZK2tmvpe1GHTxdzs1?usp=drive_link
 
 ## Volleyball 🏐
 ▶The following actions are detected in volleyball🏐:
@@ -43,7 +43,7 @@ Blocking
 ▶Dataset Link🔗:
 https://drive.google.com/drive/folders/1YHMHyKHrMoThYxd0OMPu0aeR1H1KalQE?usp=drive_link
 
-▶Results Link🔗: https://drive.google.com/drive/folders/1ar7RxjM4xoX-1rIFBFXP0gJ1Y7L3zSXY?usp=drive_link
+▶Results Link🔗: https://drive.google.com/drive/folders/1ZKRNQ8y_ZO0HKY4fszL7OHXobuugD3hb?usp=drive_link
 
 ## Tennis 🎾:
 ▶Within the context of Tennis🎾, it identifies the following actions
@@ -52,4 +52,4 @@ https://drive.google.com/drive/folders/1YHMHyKHrMoThYxd0OMPu0aeR1H1KalQE?usp=dri
 ▶Dataset Link🔗:
 https://drive.google.com/drive/folders/13UGMSqr5XbyXZy5pU6lamE7MwkF-Lvp0?usp=drive_link
 
-▶Results Link🔗: https://drive.google.com/drive/folders/1ar7RxjM4xoX-1rIFBFXP0gJ1Y7L3zSXY?usp=drive_link
+▶Results Link🔗: https://drive.google.com/drive/folders/1wKs2dI0N-0H5eBouOxTdoYVt3uoxxvci?usp=drive_link
